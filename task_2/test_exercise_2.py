@@ -1,5 +1,5 @@
 import unittest
-from fixed_version import calculate_payments  # Replace with your actual file/module
+from fixed_version import calculate_payments
 
 
 class TestCalculatePayments(unittest.TestCase):
